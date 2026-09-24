@@ -48,8 +48,8 @@
     "id": "cartographer",
     "name": "Cartographer",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/cartographer.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/cartographer_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/cartographer.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/cartographer_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "You start knowing how many Minions neighbor at least 1 Outsider. [+0 to +1 Outsider]",
@@ -62,8 +62,8 @@
     "id": "burglar",
     "name": "Burglar",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/burglar.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/burglar_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/burglar.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/burglar_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Once per game, at night, choose a player: you gain their ability. If both of you are alive, 1 of you is drunk.",
@@ -98,8 +98,8 @@
     "id": "spymaster",
     "name": "Spymaster",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/spymaster.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/spymaster_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/spymaster.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/spymaster_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "You think you are an Outsider, but you are not. The 1st time you die, you live and become a not-in-play Townsfolk.",
@@ -124,8 +124,8 @@
     "id": "effigy",
     "name": "Effigy",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/effigy.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/effigy_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/effigy.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/effigy_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each night, choose a player: a chosen Demon learns who you are, and must attack you 1st tomorrow night.",
@@ -167,8 +167,8 @@
     "id": "naturalist",
     "name": "Naturalist",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/naturalist.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/naturalist_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/naturalist.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/naturalist_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "The 1st time you die, if an Outsider is alive, an Outsider dies instead. [+0 to +1 Outsider]",
@@ -183,8 +183,8 @@
     "id": "attorney",
     "name": "Attorney",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/attorney.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/attorney_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/attorney.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/attorney_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "If both of your nearest evil neighbors are alive, you can't die.",
@@ -198,8 +198,8 @@
     "id": "matchmaker",
     "name": "Matchmaker",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/matchmaker.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/matchmaker_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/matchmaker.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/matchmaker_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each night, choose 2 players (not yourself): if they are different alignments, they can't die until dusk.",
@@ -216,8 +216,8 @@
     "id": "merchant",
     "name": "Merchant",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/merchant.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/merchant_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/merchant.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/merchant_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each day, you may publicly choose any number of players. Tonight, if you chose an evil player, you die.",
@@ -233,8 +233,8 @@
     "id": "bartender",
     "name": "Bartender",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/bartender.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/bartender_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/bartender.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/bartender_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Executees nominated by a player of the same alignment might not die.",
@@ -248,8 +248,8 @@
     "id": "captain",
     "name": "Captain",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/captain.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/captain_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/captain.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/captain_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each night, choose any number of players (not yourself): if all are good, they can't die by execution tomorrow.",
@@ -269,8 +269,8 @@
     "id": "juror",
     "name": "Juror",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/juror.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/juror_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/juror.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/juror_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each night*, learn the alignment of the player who was executed today.",
@@ -285,8 +285,8 @@
     "id": "pharmacist",
     "name": "Pharmacist",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/pharmacist.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/pharmacist_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/pharmacist.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/pharmacist_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each night, choose a fresh player: they are drunk until dusk. A chosen evil player learns this.",
@@ -326,8 +326,8 @@
     "id": "mortician",
     "name": "Mortician",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/mortician.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/mortician_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/mortician.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/mortician_evil.png?raw=true"
     ],
     "team": "townsfolk",
     "ability": "Each night*, choose up to 4 players: if at least 1 died tonight, learn how many evil players you chose.",
@@ -339,8 +339,8 @@
     "id": "victim",
     "name": "Victim",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/victim.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/victim_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/victim.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/victim_evil.png?raw=true"
     ],
     "team": "outsider",
     "ability": "You think you are a Townsfolk, but you are not. You can die, even if for some other reason you can't.",
@@ -365,8 +365,8 @@
     "id": "chekhov",
     "name": "Chekhov",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/chekhov.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/chekhov_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/chekhov.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/chekhov_evil.png?raw=true"
     ],
     "team": "outsider",
     "ability": "On your 1st night, choose 2 players (not yourself): if 1 is dead, the other might die at any time, even if you are dead.",
@@ -382,8 +382,8 @@
     "id": "psychiatrist",
     "name": "Psychiatrist",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/psychiatrist.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/psychiatrist_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/psychiatrist.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/psychiatrist_evil.png?raw=true"
     ],
     "team": "outsider",
     "ability": "Each night*, choose a living player: a chosen evil Townsfolk or Outsider turns good and learns you are the Psychiatrist. [1 good character is evil]",
@@ -397,8 +397,8 @@
     "id": "extortionist",
     "name": "Extortionist",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/extortionist.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/extortionist_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/extortionist.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/extortionist_evil.png?raw=true"
     ],
     "team": "outsider",
     "ability": "The last player to choose you with their ability might die at any time.",
@@ -412,8 +412,8 @@
     "id": "poltergeist",
     "name": "Poltergeist",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/poltergeist.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/poltergeist_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/poltergeist.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/poltergeist_good.png?raw=true"
     ],
     "team": "minion",
     "ability": "When you die, choose a player: they turn evil.",
@@ -434,8 +434,8 @@
     "id": "mercenary",
     "name": "Mercenary",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/mercenary.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/mercenary_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/mercenary.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/mercenary_good.png?raw=true"
     ],
     "team": "minion",
     "ability": "Each night, choose 2 living players (both different from last night): if at least 1 is a Townsfolk, neither can die until dusk.",
@@ -452,8 +452,8 @@
     "id": "anarchist",
     "name": "Anarchist",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/anarchist.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/anarchist_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/anarchist.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/anarchist_good.png?raw=true"
     ],
     "team": "minion",
     "ability": "Each night*, choose a player: a chosen Outsider dies. Outsiders you kill poison their nearest Townsfolk neighbor. [+1 Outsider]",
@@ -472,8 +472,8 @@
     "id": "desperado",
     "name": "Desperado",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/desperado.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/desperado_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/desperado.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/desperado_good.png?raw=true"
     ],
     "team": "minion",
     "ability": "Each night, choose a player: they learn this. If you chose yourself last night, tonight all previously chosen players die.",
@@ -504,8 +504,8 @@
     "id": "boogeyman",
     "name": "Boogeyman",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/boogeyman.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/boogeyman_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/boogeyman.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/boogeyman_good.png?raw=true"
     ],
     "team": "demon",
     "ability": "Each night*, choose a player: they die. If a Minion died today, choose 2 players tonight.",
@@ -522,8 +522,8 @@
     "id": "wyvern",
     "name": "Wyvern",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/wyvern.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/wyvern_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/wyvern.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/wyvern_good.png?raw=true"
     ],
     "team": "demon",
     "ability": "Each night*, you may choose a player: they die. For every night this game you chose no-one (max of 2), you may choose another player. [-1 Outsider]",
@@ -543,8 +543,8 @@
     "id": "aristocrat",
     "name": "Aristocrat",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/aristocrat.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/aristocrat_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/aristocrat.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/aristocrat_good.png?raw=true"
     ],
     "team": "demon",
     "ability": "Each night*, choose a player: they die. If an evil player died last night, evil players cannot die by execution if 5 or more players are alive.",
@@ -560,8 +560,8 @@
     "id": "serpent",
     "name": "Serpent",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/serpent.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/serpent_good.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/serpent.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/serpent_good.png?raw=true"
     ],
     "team": "demon",
     "ability": "Each night*, choose a player: they die. If you chose a neighbor, choose another player.",
@@ -577,9 +577,9 @@
     "id": "sweettooth",
     "name": "Sweet Tooth",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/sweettooth_unaligned.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/sweettooth_good.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/sweettooth_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/sweettooth_unaligned.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/sweettooth_good.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/sweettooth_evil.png?raw=true"
     ],
     "team": "traveller",
     "ability": "Each night, choose a player: if they agree, the ST adds an extra ability to their character.",
@@ -595,9 +595,9 @@
     "id": "executive",
     "name": "Executive",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/executive_unaligned.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/executive_good.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/executive_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/executive_unaligned.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/executive_good.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/executive_evil.png?raw=true"
     ],
     "team": "traveller",
     "ability": "Each day, immediately after a player gets enough votes to put them on the block, you may choose to take them off the block.",
@@ -608,9 +608,9 @@
     "id": "viscount",
     "name": "Viscount",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/viscount_unaligned.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/viscount_good.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/viscount_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/viscount_unaligned.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/viscount_good.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/viscount_evil.png?raw=true"
     ],
     "team": "traveller",
     "ability": "If the day would end with no execution, you choose who is executed.",
@@ -621,9 +621,9 @@
     "id": "adjucant",
     "name": "Adjunct",
     "image": [
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/adjucant_unaligned.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/adjucant_good.png?raw=true",
-      "https://github.com/3lover/Murder-in-the-Villa/blob/main/Icons/adjucant_evil.png?raw=true"
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/adjucant_unaligned.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/adjucant_good.png?raw=true",
+      "https://github.com/3lover/Trust-Issues/blob/main/Icons/adjucant_evil.png?raw=true"
     ],
     "team": "traveller",
     "ability": "Majority is not needed to put a player on the block. If a player gets a majority of votes, they are immediately executed.",
